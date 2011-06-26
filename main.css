@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+	color:#333333;
+}
+body{
+    margin: 20px 40px;
+	background-color:#EEEEFF;
+}
+h1 {
+    margin: 20px 0px 0px 0px;
+	font-size:2.5em;
+	}
+ul li {
+    margin: 0px;
+    padding: 0px;
+	display: inline;
+	list-item-position: inside;
+    }
+#header{
+	height:50px;
+}
+#marker_desc{
+	font-size:0.8em;
+}
+#title{
+	float:left;
+}
+#social_table{
+	float:left;
+	height:58px;
+}
+
+#search_area{
+	clear:left;
+}
+
+dt {
+	padding: 0px 1px;
+	margin-top: 20px;
+}
+dd{
+	margin-left: 10px;
+}
+#input_search{
+	margin: 10px;
+}
+#input_keyword{
+	margin-bottom: 10px;
+}
+#loading{
+	font-size:0.8em;
+}
+#map_canvas{
+}
+
+.debug{
+	font-size:0.6em;
+}
+
+.event_title{
+	border-left: 4px solid #EA1F00;
+	padding: 5px 10px;
+}
+.event_detail{
+	font-size:0.8em;
+}
+#social{
+}
+h1{
+display:inline;
+}
